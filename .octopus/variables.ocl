@@ -1,0 +1,5 @@
+variable "Azure" {
+    type = "AzureAccount"
+
+    value "data-science-dev-test" {}
+}
